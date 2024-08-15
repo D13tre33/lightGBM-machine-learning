@@ -17,7 +17,7 @@ $ echo 'export PATH="/opt/homebrew/anaconda3/bin:$PATH"' >> ~/.zshrc
 $ source ~/.zshrc
 ```
 
-_Restart the terminal or use source ~/.zshrc to reload your shell environment and execute jupyter notebook an output will be like this_
+Restart the terminal or use source ~/.zshrc to reload your shell environment and execute jupyter notebook an output will be like this
 ```shell
 $ jupyter notebook
 ```
